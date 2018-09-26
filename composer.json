@@ -27,7 +27,7 @@
     "vlucas/phpdotenv": "*",
     "rcrowe/twigbridge": "*",
     "graham-campbell/markdown": "*",
-    "keboola/csv": "1.1.*",
+    "keboola/csv": "2.0.*",
     "omnipay/omnipay": "2.*",
     "omnipay/stripe": "~2.0",
     "omnipay/paypal": "~2.0",
