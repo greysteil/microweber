@@ -19,7 +19,7 @@
   "require": {
     "laravel/framework": "5.4.*",
     "illuminate/contracts": "5.4.*",
-    "laravel/socialite": "3.0.2",
+    "laravel/socialite": "3.1.1",
     "composer/composer": "v1.2.2",
     "socialiteproviders/linkedin": "*",
     "illuminate/support": "5.4.*",
