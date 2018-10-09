@@ -36,7 +36,7 @@
     "coduo/php-humanizer": "*",
     "omnipay/common": "*",
     "league/csv": "^7.2",
-    "giggsey/libphonenumber-for-php": "^7.6",
+    "giggsey/libphonenumber-for-php": "^8.9",
     "laravelcollective/html": "*",
     "ezyang/htmlpurifier": "^4.8",
     "rtconner/laravel-tagging": "dev-laravel-5",
