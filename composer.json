@@ -20,7 +20,7 @@
     "laravel/framework": "5.4.*",
     "illuminate/contracts": "5.4.*",
     "laravel/socialite": "3.0.2",
-    "composer/composer": "v1.2.2",
+    "composer/composer": "v1.7.3",
     "socialiteproviders/linkedin": "*",
     "illuminate/support": "5.4.*",
     "symfony/http-foundation": "*",
